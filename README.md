@@ -5,7 +5,7 @@
 - 🌱 I’m currently diving into **Data Analytics**, **Machine Learning**, and **Software Development**.
 - 👩‍💻 My projects range from **NLP models** to **web development** and **data visualization**.
 - 💡 I'm always keen to **collaborate** on innovative projects and **solve real-world problems** through technology.
-- 💬 Feel free to ask me about **data analysis**, **NLP models**, or **full-stack development**.
+- 💬 Feel free to ask me about **data analysis**, or **full-stack development**.
 
 🔗 **Let's Connect:**  
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/aditiagrawal21/)
