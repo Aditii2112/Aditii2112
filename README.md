@@ -10,7 +10,7 @@
 🔗 **Let's Connect:**  
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/aditiagrawal21/)
 - 🌐 Portfolio: [Coming Soon!]
-- 📧 Reach me at **adiagrawal@ucdavis.edu**
+- 📧 Reach me at **adiagrawal@ucdavis.edu** or **aditi.agrawal2112@gmail.com**
 
 ⚡ **Fun Fact:** When I’m not coding, you’ll find me exploring new places, reading about **philosophy**, or volunteering to **support local communities**.
 
