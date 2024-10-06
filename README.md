@@ -8,7 +8,7 @@
 - 💬 Feel free to ask me about **data analysis**, **NLP models**, or **full-stack development**.
 
 🔗 **Let's Connect:**  
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/adiagrawal/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/aditiagrawal21/)
 - 🌐 Portfolio: [Coming Soon!]
 - 📧 Reach me at **adiagrawal@ucdavis.edu**
 
