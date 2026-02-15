@@ -3,16 +3,23 @@ MSCS Student at UC Davis | AI & Full-Stack Developer | Passionate about Data Int
 I’m a Computer Science graduate student at UC Davis with a 3.91 CGPA, specializing in building scalable AI systems and intelligent multi-agent orchestrators. From optimizing LLM pipelines to analyzing complex neurotechnology data, I thrive at the intersection of machine learning and software engineering.
 
 🛠️ What I'm currently working on:
-🚀 OasisFlow: Developing a multi-agent orchestrator using LangGraph and Google Calendar for intelligent automated scheduling.
-🏠 Butterflo Internship: Designing automated image classification pipelines using Vertex AI and Gemini Vision Pro.
-👩‍💻 SheLeads Analytics: Building an AI-powered platform tailored for women entrepreneurs.
-🧠 Neuroengineering Research: Leading demographic sensitivity analyses on sEMG features in collaboration with Meta’s Neurotechnology program.
+OasisFlow: Developing a multi-agent orchestrator using LangGraph and Google Calendar for intelligent automated scheduling.
+
+Butterflo Internship: Designing automated image classification pipelines using Vertex AI and Gemini Vision Pro.
+
+SheLeads Analytics: Building an AI-powered platform tailored for women entrepreneurs.
+
+
+Neuroengineering Research: Leading demographic sensitivity analyses on sEMG features in collaboration with Meta’s Neurotechnology program.
 
 💻 Technical Toolkit:
 
 Languages: Python, SQL, Go, JavaScript, HTML/CSS 
+
 AI/ML: TensorFlow, PyTorch, LangChain, LangGraph, Vertex AI, Gemini 
+
 DevOps & Cloud: Docker, GitHub Actions, AWS, GCP (BigQuery, Cloud Run) 
+
 Full Stack: Next.js, React, Node.js, FastAPI, PostgreSQL 
 
 # Beyond the Code:
