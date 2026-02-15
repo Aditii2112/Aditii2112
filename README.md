@@ -1,8 +1,10 @@
 Hi, I'm Aditi Agrawal!
 MSCS Student at UC Davis | AI & Full-Stack Developer | Passionate about Data Intelligence and Empowering Women in Tech 
+
 I’m a Computer Science graduate student at UC Davis with a 3.91 CGPA, specializing in building scalable AI systems and intelligent multi-agent orchestrators. From optimizing LLM pipelines to analyzing complex neurotechnology data, I thrive at the intersection of machine learning and software engineering.
 
 🛠️ What I'm currently working on:
+
 OasisFlow: Developing a multi-agent orchestrator using LangGraph and Google Calendar for intelligent automated scheduling.
 
 Butterflo Internship: Designing automated image classification pipelines using Vertex AI and Gemini Vision Pro.
@@ -25,13 +27,13 @@ Full Stack: Next.js, React, Node.js, FastAPI, PostgreSQL
 # Beyond the Code:
 Teaching: Former Teaching Assistant for the UC Davis Graduate School of Management.
 
-Entrepreneurship: Currently refining a startup idea and exploring the Y Combinator ecosystem.
+Entrepreneurship: Currently refining a startup idea.
 
 Fun Fact: When I'm not optimizing prompt pipelines, I'm likely exploring new places, reading philosophy, or volunteering in local communities.
 
 🔗 **Let's Connect:**  
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/aditiagrawal21/)
-- 🌐 Portfolio: [Link] (https://aditii2112.github.io/)
+- 🌐 Portfolio: [Link](https://aditii2112.github.io/)
 - 📧 Reach me at **adiagrawal@ucdavis.edu** or **aditi.agrawal2112@gmail.com**
 
 
