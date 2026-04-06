@@ -18,7 +18,7 @@ Neuroengineering Research: Leading demographic sensitivity analyses on sEMG feat
 
 Languages: Python, SQL, Go, JavaScript, HTML/CSS 
 
-AI/ML: TensorFlow, PyTorch, LangChain, LangGraph, Vertex AI, Gemini 
+AI/ML: TensorFlow, PyTorch, LangChain, LangGraph, Vertex AI, Gemini, MCP
 
 DevOps & Cloud: Docker, GitHub Actions, AWS, GCP (BigQuery, Cloud Run) 
 
